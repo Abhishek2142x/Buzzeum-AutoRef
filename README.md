@@ -72,8 +72,11 @@ CTRL + C
 ## 💡 Important Notes:
 
 🚀 DO NOT SHARE YOUR PRIVATE KEYS from wallets.txt.
+
 💸 The bot will automatically switch proxies after each request.
+
 🕐 The bot will automatically claim drops every 4 hours.
+
 💯 Maximum profit = more wallets + more proxies + more referrals.
 
 ## Disclaimer
